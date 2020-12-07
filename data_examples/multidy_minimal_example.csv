@@ -1,0 +1,5 @@
+.universe,age_exclusions,gender_exclusions,estimate,p.value
+1,All ages,Women only,0.342105263,0.216971434
+2,All ages,All genders,0.365546218,0.048329436
+3,Ps < 50,Women only,0.366666667,0.238129012
+4,Ps < 50,All genders,0.417069243,0.041226248
