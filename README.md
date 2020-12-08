@@ -13,3 +13,22 @@ Format:
 -gender_exclusions - Column indicating gender exclusions  
 -estimate - Estimate value for that universe  
 -p.value - P value for that universe  
+
+
+
+
+
+
+# Large data example format (each row one universe in the multiverse):
+'data.frame':	2488320 obs. of  27 variables:
+ - $ RRR    - RRR indicator
+ - $ lab    - lab indicator 
+ - $ effect_size  - hedge's g 
+ - $ var_es     - variance in effect size 
+ - $ p_value     -  p_value 
+ - $ n1        - sample size treatment group
+ - $ n2        - sample size control group
+ - $ N          - total sample size      
+ - $ excluded_percent  - what % of participants excluded from total sample size
+ - columns s1:s2, e1:e7, u1:u9  - indicators of degrees of freedom, number {0,1, 2 , 3 et} indicates choice for each DF in that universe (row)
+ 
