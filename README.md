@@ -42,3 +42,10 @@ Format:
 Here is an example of a funnel plot of the multiverse using the large dataset. Effect sizes have been binned into hexagons, and the y-axis uses the N rather than SE since most researcher degrees of freedom in the large dataset relate to data exclusions. Code to reproduce the plot can be found at anton/funnel-plot_code_large-data.r
 
 <img src="https://github.com/raklein/multiviz/blob/main/anton/funnel-large.png" width="370" height = "500">
+
+## Contributors/team
+Anton Collentine
+Amir Abdol
+Rick Klein
+Marcel Van Assen
+Michele Nuijten
