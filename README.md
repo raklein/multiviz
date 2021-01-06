@@ -44,8 +44,8 @@ Here is an example of a funnel plot of the multiverse using the large dataset. E
 <img src="https://github.com/raklein/multiviz/blob/main/anton/funnel-large.png" width="370" height = "500">
 
 ## Contributors/team
-Anton Collentine
-Amir Abdol
-Rick Klein
-Marcel Van Assen
-Michele Nuijten
+Anton Collentine  
+Amir Abdol  
+Rick Klein  
+Marcel Van Assen  
+Michele Nuijten  
